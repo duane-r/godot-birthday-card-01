@@ -1,2 +1,3 @@
 # godot-birthday-card-01
-birthday card for Dad
+
+This is just a little birthday card I made for my father.
